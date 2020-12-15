@@ -12,7 +12,7 @@ ${data.description}
 
 ##Table of Contents
 
-* [Team Members](#team-members)
+
 * [Installation Instructions](#Installation)
 * [Guidelines] (#guidelines)
 * [Test Instructions](#Tests)
