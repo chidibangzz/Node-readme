@@ -12,7 +12,7 @@ I wanted to inspire other users
 
 * [Team Members](#team-members)
 * [Installation Instructions](#Installation)
-* [Guidelines] (#guidelines)
+* [Guidelines](#guidelines)
 * [Test Instructions](#Tests)
 * [License](#License)
 * [Questions](#Questions)
