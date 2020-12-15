@@ -3,6 +3,7 @@ function generateMarkdown(data) {
     return `# ${data.title}
 
 ##Title
+
 ${data.title}
 
 ##Description
@@ -20,21 +21,25 @@ ${data.description}
 * [Questions](#Questions)
 
 ##Installation
+
 ${data.Installations}
 
 ##Usage
+
 ${data.usage}
 
 ##Guidelines
+
 ${data.guidelines}
 
 ##Tests
+
 ${data.tests}
 
 ##Questions 
 [Github](https://github.com/chidibangzz/Node-readme/${data.github})
 
- feel free to email me at ${data.emailadress}
+Feel free to email with questions ${data.emailadress}
 
 
 
